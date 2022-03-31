@@ -1,3 +1,5 @@
 Hola soy Dani
 
 Y estoy haciendo una prueba en git
+
+Hacer un reset
