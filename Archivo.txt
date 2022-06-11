@@ -2,6 +2,8 @@ Hola soy Dani
 
 Y estoy haciendo una prueba en git
 
+Experimento 1
+
 Hacer un reset
 
 Master 1
